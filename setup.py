@@ -6,4 +6,3 @@ c = conn.cursor()
 c.execute("CREATE TABLE messages (ip text, content text)")
 
 c.close()
-
